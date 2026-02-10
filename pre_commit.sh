@@ -2,9 +2,6 @@
 
 set -e
 
-# Set Java home for Gradle
-export JAVA_HOME=/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home
-
 # Format Skir code
 npx skir format
 
