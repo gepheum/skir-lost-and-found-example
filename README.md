@@ -1,6 +1,6 @@
 # 🌌 Intergalactic Lost & Found
 
-A simple lost and found application demonstrating end-to-end type-safe communication between a Kotlin backend and TypeScript frontend using [Skir](https://skir.build/).
+A simple lost and found application demonstrating end-to-end type-safe communication between a Kotlin backend and TypeScript frontend using [Skir](https://skir.sh/).
 
 ## Features
 
@@ -162,7 +162,7 @@ Visit `http://localhost:8080/api?studio` to use the interactive API explorer:
 
 ## Learn More
 
-- [Skir Documentation](https://skir.build/docs)
+- [Skir Documentation](https://skir.sh/docs)
 - [Skir GitHub](https://github.com/gepheum/skir)
 - [Kotlin Example](https://github.com/gepheum/skir-kotlin-example)
 
