@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "skir-client": "latest"
+    "skir-client": "^1.0.19"
   },
   "devDependencies": {
     "@types/node": "^20.10.6",

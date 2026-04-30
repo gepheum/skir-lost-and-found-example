@@ -21,11 +21,11 @@ struct LostItem {
 /// Status of an item in the lost & found
 enum ItemStatus {
   /// Item was lost and looking for it
-  LOST;
+  lost;
   /// Item was found and looking for owner
-  FOUND;
+  found;
   /// Item has been reunited with owner
-  REUNITED;
+  reunited;
 }
 
 /// Request to add a new lost/found item
